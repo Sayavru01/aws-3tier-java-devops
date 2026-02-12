@@ -1,6 +1,6 @@
 # AWS 3-Tier Java DevOps Project
 
-Production-grade AWS 3-tier architecture using Terraform and Java application deployment.
+Production-grade AWS 3-tier architecture.
 
 Phase 1 – Foundation  
 Phase 2 – Networking  
