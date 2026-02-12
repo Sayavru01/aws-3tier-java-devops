@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring Boot Login example with Spring Security, MySQL and JWT
 Build a Spring Boot Login and Registration example (Rest API) that supports JWT with HttpOnly Cookie. You’ll know:
 
@@ -193,3 +194,7 @@ Run both Back-end & Front-end in one place:
 > [Integrate React.js with Spring Boot Rest API](https://www.bezkoder.com/integrate-reactjs-spring-boot/)
 
 > [Integrate Vue.js with Spring Boot Rest API](https://www.bezkoder.com/integrate-vue-spring-boot/)
+=======
+# aws-3tier-java-devops
+End-to-end DevOps project: Production-grade AWS 3-tier architecture with Terraform, Java application deployment, Auto Scaling, Load Balancing, RDS, and monitoring implementation.
+>>>>>>> 13cf7c3402f7e9f9a7d9280378e9947b2e0a4c6c
